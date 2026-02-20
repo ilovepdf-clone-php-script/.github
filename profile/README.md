@@ -20,4 +20,4 @@ Features of **iLovePDF Clone PHP Script** typically include a wide range of func
  -   **OCR (Optical Character Recognition)** : Some advanced scripts include OCR to extract editable text from scanned **PDFs**.
 # **Download iLovePDF Clone Script**
  - **[LIVE PREVIEW](https://www.codesome.net/items/preview/eyJpdiI6IktDQXRXSTY1alVRQk9CaHd0VkVDMmc9PSIsInZhbHVlIjoiZCs5MCtvK0hIdmx6ZVIzUUY4bHlYZz09IiwibWFjIjoiYTk5YmFiM2QxODY5MDA3Zjg0MGM5NzZlNjgzMTg0MjdlODUyOWJiNDEzMjZjOGU5YjcxMWMwZTViMzQ5Mzg0MyIsInRhZyI6IiJ9)**
- - **[DOWNLOAD NOW](https://www.codesome.net/items/ilovepdf-clone-php-script/1540)**
+ - **[DOWNLOAD NOW](https://www.codesome.net/items/ilovepdf-clone-script/1540)**
